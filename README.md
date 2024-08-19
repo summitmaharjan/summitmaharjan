@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Maharjan</h1>
 <h3 align="center">A Python enthusiast excited to embark on a journey of building innovative and impactful software projects.</h3>
+<br></br>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=summitmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="summitmaharjan" /> </p>
@@ -9,10 +10,10 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **smtmhrzn5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **smtmhrzn5@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
