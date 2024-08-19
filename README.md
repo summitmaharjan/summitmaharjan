@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Maharjan</h1>
 <h3 align="center">A Python enthusiast excited to embark on a journey of building innovative and impactful software projects.</h3>
 <br></br>
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=summitmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="summitmaharjan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=summitmaharjan" alt="summitmaharjan" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
