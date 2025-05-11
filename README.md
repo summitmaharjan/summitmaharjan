@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Maharjan</h1>
-<h3 align="center">A Python enthusiast excited to embark on a journey of building innovative and impactful software projects.</h3>
+<h3 align="center">---------------.</h3>
 <br></br>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Dot Net**
 
 
 <h3 align="left">Connect with me:</h3>
